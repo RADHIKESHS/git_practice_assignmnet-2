@@ -4,7 +4,8 @@ for (let i=0;i<=num;i++){
 	if(num%i==0){
 		count++;
 	}
-if (count==6){
-	console.log("Yes, prime");
+if (count==2){
+	console.log("it is prime");
 }else{
-	console.log("No, not prime");
+	console.log("it is not prime");
+  }
